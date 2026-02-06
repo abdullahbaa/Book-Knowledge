@@ -1,7 +1,7 @@
 
 import './App.css'
 import Header from './Components/Header/Header'
-import Blogs from './components/blogs/Blogs'
+import Blogs from './Components/blogs/Blogs'
 
 function App() {
 
